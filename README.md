@@ -1,6 +1,6 @@
 # Score-keeping
- [Score keeper live website 🏓](pingpong-score-tracker.netlify.app)
 
+Live Demo: [Ping-pong score-keeper](pingpong-score-tracker.netlify.app)
 
 ## How to use website
 
