@@ -1,5 +1,4 @@
 # Score-keeping
-Ping pong score keeping website
  [Score keeper live website 🏓](pingpong-score-tracker.netlify.app)
 
 
